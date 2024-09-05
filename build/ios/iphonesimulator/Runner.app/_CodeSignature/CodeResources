@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		FcbQhQnoKSkBNEvpZKqh86pAotY=
+		hinTzln2pNespHbvExUxe/Fv94k=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		9ty2Y6tsamp5/bNFpepGejy/nfo=
+		aLu/b8mBzEtf2qyH2XCS8rJoIp4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		Cnd+bQSRqOE6xRVehjByVR/m4B0=
+		BA7P0v+mkFht2mhA+ufsHgs6Tvg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Frameworks/flutter_compass.framework/flutter_compass</key>
 		<data>
-		gXCJmwxT/XGsJ2UyIBxgg6qxv/8=
+		+wZK11vWHmJGPNy0oJtCuRP5AOw=
 		</data>
 		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
 		<data>
@@ -214,7 +214,7 @@
 		</data>
 		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
 		<data>
-		hNnhdbjbRCLzk4GTqsSqBmXYjtY=
+		PKfp+At+qJmlT09pfwhKF4r1jYA=
 		</data>
 		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
 		<data>
@@ -309,7 +309,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			79sfJ0txNmmAJ9iMm9aw6Mn5bQpmTxknTH0YE8vxSL8=
+			UbkZIM6wBEbZqlIJKWTxbpHLWJvISKcp5fyyJwH7B4g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -323,7 +323,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a7WvWrNjvGuYDPajFvrx8GeIPVQrGnwOxgaxZSI/eFU=
+			nfNSmPbCdVHfMgbMwpIdz+dj63dNRZh7qJHn4ALNg/Q=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -379,7 +379,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cuSBT1cuwWpND+xEidWPbGUmtjMNz4uHJqN8Vri0tpg=
+			oFIiftFk/q26ylxTzAM+GlhrxrAxqm9wejFZXh1GLP8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -582,7 +582,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			on4X37HuAAAITTNxwGNEMjVwPizpaL3au51QQWXrPY0=
+			ncdciafAWvzfb4E3HMTe04fbBhGqElKYCyyNKNI5O94=
 			</data>
 		</dict>
 		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
@@ -603,7 +603,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KwXEl3aeCGtuhJmnZ4PGcNlBafznXSmZV/FhuJT0Pe4=
+			qSZRC+dG+RW4nwOZsLk4kZesSMXN+0xcO4DlnkZ4q1k=
 			</data>
 		</dict>
 		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
